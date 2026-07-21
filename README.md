@@ -59,6 +59,16 @@ README.md
 - Método: promedio 2023-2025 (más honesto que regresión por distorsión del pico pandemia)
 - Rango probable: 74-94 deals
 
+## Visualizaciones
+
+![Deals por año](analisis/grafico_deals_por_año.png)
+
+![Capital por año](analisis/grafico_capital_por_año.png)
+
+![Ranking inversores](analisis/grafico_inversores.png)
+
+![Tipos de deal](analisis/grafico_tipos.png)
+
 ---
 
 ## Tecnologías usadas
